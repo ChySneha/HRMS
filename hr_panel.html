@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Hr_Panel</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<h2>Employee List</h2>
+<table border="1">
+  <tr><th>UserID</th><th>Name</th><th>Joining Date</th></tr>
+  {% for u in users %}
+  <tr><td>{{ u[0] }}</td><td>{{ u[1] }}</td><td>{{ u[2] }}</td></tr>
+  {% endfor %}
+</table>
