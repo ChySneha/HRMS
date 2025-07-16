@@ -1,1 +1,2 @@
 # HRMS
+An HRMS line refers to a Human Resources Management System line, which is a part of a larger HRMS (Human Resources Management System) software. This line typically represents a specific functional area within the HRMS, such as the "Employee Self-Service" (ESS) line in the Line O Matic HRMS application. It provides employees with access to HR-related information and allows them to manage their data, request leave, track attendance, and access other HR services. 
